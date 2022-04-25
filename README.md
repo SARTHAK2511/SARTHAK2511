@@ -1,5 +1,5 @@
 # Who-Am-I-
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Script-Kiddie-JKB/Script-Kiddie-JKB/main/Assets/hi.gif" width="40px"/> I'm <a href="https://github.com/Script-Kiddie-JKB" target="_blank">Sarthak</a>. Welcome💻
+<h1 align="center">Hey <img src="www.linkedin.com/in/sarthak-bhatore-004aaa1ba" target="_blank">Sarthak</a>. Welcome💻
 
 
 <img src="https://media.giphy.com/media/PlwtdKszlxyLK/giphy.gif" width="30"> ![Profile views](https://gpvc.arturio.dev/SARTHAK2511)
