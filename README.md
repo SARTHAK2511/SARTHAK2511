@@ -45,6 +45,8 @@ I'm currently looking for roles where I can apply my expertise in data science, 
 - **LinkedIn**: [Sarthak Bhatore](https://www.linkedin.com/in/sarthak-bhatore-004aaa1ba/)
 - **GitHub**: [SARTHAK2511](https://github.com/SARTHAK2511)
 - **Kaggle**: [Sarthak Bhatore](https://www.kaggle.com/sarthakbhatore)
+- 
+[![Sarthak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sarthak2511&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/sarthak2511/github-readme-activity-graph)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SARTHAK2511&show_icons=true&theme=radical)
 
