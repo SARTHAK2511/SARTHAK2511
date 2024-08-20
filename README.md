@@ -6,6 +6,11 @@
 
 I'm a Junior Data Scientist specializing in Machine Learning, Data Science, and Blockchain development. I hold an M.Tech degree in Artificial Intelligence and Data Science from Devi Ahilya University, Indore.
 
+I have a keen interest in building AI applications that leverage blockchain technology and large language models (LLMs) to create innovative and secure solutions.
+
+**🔍 Actively Seeking New Opportunities:**
+I'm currently looking for roles where I can apply my expertise in data science, AI, and blockchain to solve real-world problems. If you have an opening or know of an opportunity, feel free to connect with me!
+
 ## 💼 Work Experience
 
 **Junior Data Scientist at Fibonacci Finance** (Nov 2023 - Present)
@@ -31,23 +36,9 @@ I'm a Junior Data Scientist specializing in Machine Learning, Data Science, and 
 - **Languages**: Python, C++, R, SQL
 - **Data Science**: Machine Learning, Deep Learning, NLP, TensorFlow, Langchain
 - **Databases**: MySQL, MongoDB, InfluxDB
-- **Cloud Platforms**: Google Cloud, Digital Ocean
+- **Cloud Platforms**: Google Cloud , AWS , Digital Ocean
 - **Visualization**: Power BI, Grafana
 - **Other Tools**: Linux, App Script, Selenium/Scrapy, Finetuning LLMs
-
-## 📈 Projects
-
-### **Medical Imaging Cell Segmentation**
-- Developed a U-Net architecture for precise cell segmentation in tissue images.
-- Implemented using MobileNetV2 encoder and pix2pix-inspired decoder.
-
-### **Solar Panel Dust Detection**
-- Created a custom VGG16 CNN model to detect dust accumulation on solar panels.
-- Aimed to automate maintenance, ensuring timely cleaning.
-
-### **LLM App for PDF Insights Extraction**
-- Built an AI-powered app for extracting insights from PDFs using the Ollama framework.
-- Integrated Mistral and Zephyr language models with a Gradio UI for user interaction.
 
 ## 🌐 Let's Connect
 
@@ -65,4 +56,4 @@ I'm a Junior Data Scientist specializing in Machine Learning, Data Science, and 
 
 ## 📧 Contact
 
-Feel free to reach out to me at [Sarthakbhatore637@gmail.com](mailto:Sarthakbhatore637@gmail.com) for any collaboration or inquiries.
+Feel free to reach out to me at [Sarthakbhatore637@gmail.com](mailto:Sarthakbhatore637@gmail.com) for any collaboration, inquiries, or opportunities.
