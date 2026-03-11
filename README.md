@@ -1,61 +1,89 @@
-# Hi there, I'm Sarthak Bhatore 👋
+# Hey, I'm Sarthak Bhatore 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=SARTHAK2511&color=blueviolet)
+[![Profile Views](https://komarev.com/ghpvc/?username=SARTHAK2511&color=blueviolet&style=flat-square)](https://github.com/SARTHAK2511)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sarthak-bhatore)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/sarthak_b)
 
-## 🚀 About Me
+---
 
-I'm a Junior Data Scientist specializing in Machine Learning, Data Science, and Blockchain development. I hold an M.Tech degree in Artificial Intelligence and Data Science from Devi Ahilya University, Indore.
+## 🤖 About Me
 
-I have a keen interest in building AI applications that leverage blockchain technology and large language models (LLMs) to create innovative and secure solutions.
+I'm an **AI Engineer** based in Bangalore, India, focused on building **Enterprise-grade AI agent systems** that actually work in production. I hold an M.Tech in Artificial Intelligence and Data Science from Devi Ahilya University, Indore.
 
-**🔍 Actively Seeking New Opportunities:**
-I'm currently looking for roles where I can apply my expertise in data science, AI, and blockchain to solve real-world problems. If you have an opening or know of an opportunity, feel free to connect with me!
+Right now I'm deep in the weeds of **agent architecture** — specifically how to make LLM-powered agents more reliable, context-aware, and useful at scale. My work sits at the intersection of production AI systems, enterprise automation, and intelligent agent design.
 
-## 💼 Work Experience
+> *Currently building AI-powered procurement intelligence at **[Procureyard](https://procureyard.com)** — automating the boring, complex parts of enterprise procurement with agents.*
 
-**Junior Data Scientist at Fibonacci Finance** (Nov 2023 - Present)
+---
 
-- Developed and trained highly accurate machine learning models using TensorFlow and RNNs for time series analysis, improving prediction accuracy by 40%.
-- Established a streamlined ETL process integrated with InfluxDB, enhancing data retrieval for over 10 analytical projects.
-- Built an end-to-end blockchain indexer pipeline using Docker, Redis, and PostgreSQL on Google Cloud.
+## 🧠 What I'm Working On
 
-**Data Analyst Intern at Careervira** (Nov 2022 - Nov 2023)
+- 🏗️ **Enterprise AI Agents** — Designing and shipping multi-agent systems for real business workflows, not just demos
+- 🔍 **Agent Context Engineering** — Studying how to structure, compress, and maintain context in long-running production agents
+- 🧩 **Agent Harness & Orchestration** — Exploring frameworks like LangGraph, Deer-Flow, and custom orchestration layers to control agent behavior reliably
+- 🗣️ **LLM Reliability in Production** — Prompt engineering, fallback strategies, memory management, and grounding techniques for enterprise deployments
+- 🔗 **RAG & Knowledge Systems** — Building retrieval pipelines that actually retrieve the right thing (Text-to-SQL, knowledge graphs, vector search)
 
-- Developed an NLP solution for categorizing over 15,000 unlabelled questions with 92% accuracy.
-- Automated a solution for calculating similarity scores between articles, optimizing further processes.
-- Implemented a custom data validation solution with a 98% validation accuracy for a dataset of 50,000 records.
+---
 
-## 🎓 Education
+## 🛠️ Tech Stack
 
-**M.Tech in Artificial Intelligence and Data Science**
-- Devi Ahilya University, Indore
-- CGPA: 8.82
+**AI / LLM**
+`OpenAI` `Claude` `Groq` `Ollama` `LangChain` `LangGraph` `RAG` `Vector DBs` `Prompt Engineering`
 
-## 🛠️ Technical Skills
+**Languages**
+`Python` `TypeScript` `JavaScript` `SQL` `PineScript`
 
-- **Languages**: Python, C++, R, SQL
-- **Data Science**: Machine Learning, Deep Learning, NLP, TensorFlow, Langchain
-- **Databases**: MySQL, MongoDB, InfluxDB
-- **Cloud Platforms**: Google Cloud , AWS , Digital Ocean
-- **Visualization**: Power BI, Grafana
-- **Other Tools**: Linux, App Script, Selenium/Scrapy, Finetuning LLMs
+**Backend & Infra**
+`FastAPI` `Node.js` `PostgreSQL` `Redis` `Docker` `Google Cloud Platform`
 
-## 🌐 Let's Connect
+**Frontend**
+`React` `Next.js` `TailwindCSS`
 
-- **LinkedIn**: [Sarthak Bhatore](https://www.linkedin.com/in/sarthak-bhatore-004aaa1ba/)
-- **GitHub**: [SARTHAK2511](https://github.com/SARTHAK2511)
-- **Kaggle**: [Sarthak Bhatore](https://www.kaggle.com/sarthakbhatore)
-- 
-[![Sarthak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sarthak2511&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/sarthak2511/github-readme-activity-graph)
+**Tools**
+`Portkey` `Perplexity API` `SQLAlchemy` `Alembic` `Selenium`
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SARTHAK2511&show_icons=true&theme=radical)
+---
 
-## 🏆 Certifications
+## 📌 Featured Projects
 
-- **Microsoft Azure AZ-900**
-- **Databases and SQL for Data Science with Python**
-- **Data Analysis Using Python**
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [deer-flow](https://github.com/SARTHAK2511/deer-flow) | SuperAgent harness — researches, codes, creates with sandboxes, memory & subagents | Python |
+| [AutoSQLNLP](https://github.com/SARTHAK2511/AutoSQLNLP) | Natural language to SQL query engine powered by LLMs | Python |
+| [vanna](https://github.com/SARTHAK2511/vanna) | Text-to-SQL generation via RAG — chat with your database | Python |
+| [Text_to_KnowledgeGraph](https://github.com/SARTHAK2511/Text_to_KnowledgeGraph) | Convert unstructured text into structured knowledge graphs | Python |
+| [gpt2_from_scratch](https://github.com/SARTHAK2511/gpt2_from_scratch) | GPT-2 implementation from scratch for deep LLM understanding | Python |
 
-## 📧 Contact
+---
 
-Feel free to reach out to me at [Sarthakbhatore637@gmail.com](mailto:Sarthakbhatore637@gmail.com) for any collaboration, inquiries, or opportunities.
+## 🌱 Currently Learning
+
+- Advanced agent memory architectures (episodic, semantic, procedural)
+- How to reduce hallucination and improve grounding in production agents
+- Multi-agent coordination patterns and inter-agent communication
+- Scaling agentic workflows for enterprise procurement use cases
+- Options trading and algorithmic strategy development
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SARTHAK2511&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SARTHAK2511&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+If you're building in the **enterprise AI / agent systems** space, or just want to talk LLMs, RAG, and production AI — I'm always down for a conversation.
+
+📬 **[LinkedIn](https://www.linkedin.com/in/sarthak-bhatore)** | 🐦 **[Twitter/X](https://twitter.com/sarthak_b)** | 💼 **[Procureyard](https://procureyard.com)**
+
+---
+
+<p align="center">
+  <i>"Every problem is solved by yet another indirection."</i>
+</p>
